@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-![Image](https://github.com/user-attachments/assets/1454ccfa-b401-4eb7-973b-0fd76787fc83)
+![Image](https://github.com/user-attachments/assets/c67f4474-b284-41ad-805d-d95209b6ee83)
 
 # Explore technical guides. 🎥
 

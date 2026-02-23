@@ -4,9 +4,11 @@
 
 # Explore technical guides. 🎥
 
-![Image](https://github.com/user-attachments/assets/885c12c5-d980-490d-b948-d91f261d8f30)
+![Image](https://github.com/user-attachments/assets/92be19b2-0e1b-46a1-a2ab-fbee39c528a2)
 <br>
-https://jungbae009.github.io/
+https://jungbae009.github.io
+
+<br>
 
 # 🧠 My Hackathon Experience
 *****

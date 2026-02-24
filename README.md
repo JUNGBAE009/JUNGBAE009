@@ -2,7 +2,18 @@
 
 ![Image](https://github.com/user-attachments/assets/c67f4474-b284-41ad-805d-d95209b6ee83)
 
-# Explore technical guides. 🎥
+<br>
+
+# I’m a high school sophomore based in South Korea. 👨‍🎓 
+### I enjoy programming, but I’m especially interested in physically building and engineering tangible systems.
+
+
+<br>
+<br>
+<br>
+
+
+# Learn through my technical page. 🎥
 
 ![Image](https://github.com/user-attachments/assets/92be19b2-0e1b-46a1-a2ab-fbee39c528a2)
 <br>

@@ -4,14 +4,6 @@
 
 <br>
 
-# Learn through my technical page. 🎥
-
-![Image](https://github.com/user-attachments/assets/92be19b2-0e1b-46a1-a2ab-fbee39c528a2)
-<br>
-https://jungbae009.github.io
-
-<br>
-
 # 🧠 My Hackathon Experience
 *****
 ## AI Hackathon 
